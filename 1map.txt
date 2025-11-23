@@ -1,0 +1,87 @@
+Roadmap:
+Python for Ethical Hacking – Full Clean Roadmap
+0. Pre-Setup
+- Install Python
+- Install VS Code
+- Install Extensions: Python, Pylance, Code Runner
+
+1. Python Basics You Must Know
+- Variables
+- Conditions (if/else)
+- Loops (for/while)
+- Functions
+- File Handling
+- Try/Except
+- Modules & Imports
+- Basic OOP (optional)
+
+2. Networking in Python
+- Sockets (TCP/UDP)
+- Client & Server
+- Build a Port Scanner
+- Build a Reverse Shell
+3. HTTP & Web Hacking
+- requests module (GET/POST)
+- Cookies, Sessions
+- Bruteforcing Directories
+- Scraping (BeautifulSoup)
+
+4. Automation & Subprocess
+- Run system commands
+- Keylogger basics
+- Automation scripts
+
+5. Multithreading / Async
+- threading
+- multiprocessing
+- asyncio
+
+6. Packet Crafting (Scapy)
+- Sniff packets
+- Modify packets
+- ARP poisoning
+- MITM basics
+
+7. Cryptography & Hashing
+- Hashing (MD5, SHA1, SHA256)
+- Cracking hashes with wordlists
+- Base64, Hex encoding
+- Basic encryption
+
+8. SSH / FTP Automation
+- paramiko (SSH)
+- ftplib
+- Bruteforce SSH
+- Automate server commands
+
+9. Must-Build Hacking Tools
+- Port Scanner
+- Directory Bruteforcer
+- Subdomain Scanner
+- Packet Sniffer
+- ARP Spoofer
+- Hash Cracker
+- Keylogger
+- Reverse Shell
+- SSH Bruteforce
+- Basic Vulnerability Scanner
+
+10. Advanced Projects
+- Build Your Own Nmap
+- Build Burp Suite Lite
+- MITM Attack Framework
+- SQL Injection automation
+
+11. Super Simple 12-Step Roadmap
+- 1. Python basics
+- 2. File handling
+- 3. Modules & pip
+- 4. sockets
+- 5. requests
+- 6. threading
+- 7. subprocess
+- 8. scapy
+- 9. hashlib
+- 10. paramiko
+- 11. Build 10 tools
+- 12. Build 3 full projects
